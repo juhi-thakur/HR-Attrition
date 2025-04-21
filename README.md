@@ -1,0 +1,1 @@
+This project is about the preditio the attrition rate wth the help of the Dependent variable(Attrition) , and it can help to reduce the Attrition rate of the company. i used machine learning for prediction. i created charts and use Train-test-split function for prediction.
